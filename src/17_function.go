@@ -30,7 +30,7 @@ func average(xs []float64) float64 {
 
 // multiple value function
 func max(a, b int) int {
-	
+	return a
 }
 
 // multiple value return function
